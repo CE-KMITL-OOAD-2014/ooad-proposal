@@ -1,0 +1,6 @@
+{
+ "name": "ooad-proposal",
+ "dependencies": {
+   "request": "*"
+ }
+}
