@@ -1,0 +1,90 @@
+[submodule "POS4Shop"]
+	path = POS4Shop
+	url = https://github.com/CE-KMITL-OOAD-2014/POS4Shop.git
+[submodule "Scrum-Framework"]
+	path = Scrum-Framework
+	url = https://github.com/CE-KMITL-OOAD-2014/Scrum-Framework.git
+[submodule "BusTicket"]
+	path = BusTicket
+	url = https://github.com/CE-KMITL-OOAD-2014/BusTicket.git
+[submodule "KMITL-simple-event-bulletins-board"]
+	path = KMITL-simple-event-bulletins-board
+	url = https://github.com/CE-KMITL-OOAD-2014/KMITL-simple-event-bulletins-board.git
+[submodule "Love-me-love-my-pets"]
+	path = Love-me-love-my-pets
+	url = https://github.com/CE-KMITL-OOAD-2014/Love-me-love-my-pets.git
+[submodule "Dating-Agency-"]
+	path = Dating-Agency-
+	url = https://github.com/CE-KMITL-OOAD-2014/Dating-Agency-.git
+[submodule "Lib_booksys"]
+	path = Lib_booksys
+	url = https://github.com/CE-KMITL-OOAD-2014/Lib_booksys.git
+[submodule "Restaurant_booking"]
+	path = Restaurant_booking
+	url = https://github.com/CE-KMITL-OOAD-2014/Restaurant_booking.git
+[submodule "Your-budget"]
+	path = Your-budget
+	url = https://github.com/CE-KMITL-OOAD-2014/Your-budget.git
+[submodule "StyleScout"]
+	path = StyleScout
+	url = https://github.com/CE-KMITL-OOAD-2014/StyleScout.git
+[submodule "online_shopping_system"]
+	path = online_shopping_system
+	url = https://github.com/CE-KMITL-OOAD-2014/online_shopping_system.git
+[submodule "Online-Music-Controller"]
+	path = Online-Music-Controller
+	url = https://github.com/CE-KMITL-OOAD-2014/Online-Music-Controller.git
+[submodule "SharecipeTH"]
+	path = SharecipeTH
+	url = https://github.com/CE-KMITL-OOAD-2014/SharecipeTH.git
+[submodule "RightRecipe"]
+	path = RightRecipe
+	url = https://github.com/CE-KMITL-OOAD-2014/RightRecipe.git
+[submodule "healthy-style"]
+	path = healthy-style
+	url = https://github.com/CE-KMITL-OOAD-2014/healthy-style.git
+[submodule "money_movement"]
+	path = money_movement
+	url = https://github.com/CE-KMITL-OOAD-2014/money_movement.git
+[submodule "libraryonline"]
+	path = libraryonline
+	url = https://github.com/CE-KMITL-OOAD-2014/libraryonline.git
+[submodule "Part--Storage"]
+	path = Part--Storage
+	url = https://github.com/CE-KMITL-OOAD-2014/Part--Storage.git
+[submodule "Home-registration"]
+	path = Home-registration
+	url = https://github.com/CE-KMITL-OOAD-2014/Home-registration.git
+[submodule "Library_Management_System"]
+	path = Library_Management_System
+	url = https://github.com/CE-KMITL-OOAD-2014/Library_Management_System.git
+[submodule "Responsive_LMS"]
+	path = Responsive_LMS
+	url = https://github.com/CE-KMITL-OOAD-2014/Responsive_LMS.git
+[submodule "drinkforgood"]
+	path = drinkforgood
+	url = https://github.com/CE-KMITL-OOAD-2014/drinkforgood.git
+[submodule "Trading-in-your-hand"]
+	path = Trading-in-your-hand
+	url = https://github.com/CE-KMITL-OOAD-2014/Trading-in-your-hand.git
+[submodule "Photo285"]
+	path = Photo285
+	url = https://github.com/CE-KMITL-OOAD-2014/Photo285.git
+[submodule "Dream"]
+	path = Dream
+	url = https://github.com/CE-KMITL-OOAD-2014/Dream.git
+[submodule "Touyube"]
+	path = Touyube
+	url = https://github.com/CE-KMITL-OOAD-2014/Touyube.git
+[submodule "Lab_Checker"]
+	path = Lab_Checker
+	url = https://github.com/CE-KMITL-OOAD-2014/Lab_Checker.git
+[submodule "Hotel-Management"]
+	path = Hotel-Management
+	url = https://github.com/CE-KMITL-OOAD-2014/Hotel-Management.git
+[submodule "hotel-management-system"]
+	path = hotel-management-system
+	url = https://github.com/CE-KMITL-OOAD-2014/hotel-management-system.git
+[submodule "Book-Hotel"]
+	path = Book-Hotel
+	url = https://github.com/CE-KMITL-OOAD-2014/Book-Hotel.git
