@@ -88,3 +88,36 @@
 [submodule "Book-Hotel"]
 	path = Book-Hotel
 	url = https://github.com/CE-KMITL-OOAD-2014/Book-Hotel.git
+[submodule "Train-Management-System"]
+	path = Train-Management-System
+	url = https://github.com/CE-KMITL-OOAD-2014/Train-Management-System.git
+[submodule "Movie_Ticket_booking"]
+	path = Movie_Ticket_booking
+	url = https://github.com/CE-KMITL-OOAD-2014/Movie_Ticket_booking.git
+[submodule "Fux"]
+	path = Fux
+	url = https://github.com/CE-KMITL-OOAD-2014/Fux.git
+[submodule "Speedbook"]
+	path = Speedbook
+	url = https://github.com/CE-KMITL-OOAD-2014/Speedbook.git
+[submodule "Check-People"]
+	path = Check-People
+	url = https://github.com/CE-KMITL-OOAD-2014/Check-People.git
+[submodule "FoodForHealth"]
+	path = FoodForHealth
+	url = https://github.com/CE-KMITL-OOAD-2014/FoodForHealth.git
+[submodule "Speed-Book"]
+	path = Speed-Book
+	url = https://github.com/CE-KMITL-OOAD-2014/Speed-Book.git
+[submodule "FoodShare"]
+	path = FoodShare
+	url = https://github.com/CE-KMITL-OOAD-2014/FoodShare.git
+[submodule "Abs-Workout"]
+	path = Abs-Workout
+	url = https://github.com/CE-KMITL-OOAD-2014/Abs-Workout.git
+[submodule "Kin-Khum"]
+	path = Kin-Khum
+	url = https://github.com/CE-KMITL-OOAD-2014/Kin-Khum.git
+[submodule "Daily-exercise-log"]
+	path = Daily-exercise-log
+	url = https://github.com/CE-KMITL-OOAD-2014/Daily-exercise-log.git
